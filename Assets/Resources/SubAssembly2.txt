@@ -1,0 +1,4 @@
+model SubAssembly2
+infoNode SubAssembly2InfoNode1
+infoNode SubAssembly2InfoNode2
+parent MainAssemblyConfig

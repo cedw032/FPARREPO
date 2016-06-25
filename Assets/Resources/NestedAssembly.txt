@@ -1,0 +1,3 @@
+model NestedAssembly
+infoNode NestedAssemblyInfoNode
+parent SubAssembly1

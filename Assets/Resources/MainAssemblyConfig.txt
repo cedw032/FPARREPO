@@ -1,0 +1,6 @@
+model MainAssembly
+infoNode MainAssemblyInfoNode1
+infoNode MainAssemblyInfoNode2
+infoNode MainAssemblyInfoNode3
+infoNode MainAssemblyInfoNode4
+infoNode MainAssemblyInfoNode5

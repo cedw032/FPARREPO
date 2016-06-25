@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="A_R_marker_concept_27_05_16" size="12.000000 12.024242" />
+    <ImageTarget name="FPH-950-8pg-brochure-7-spreads-1" size="12.000000 12.000000" />
+    <ImageTarget name="sampletarget" size="12.000000 12.000000" />
+    <ImageTarget name="swirls" size="40.000000 22.500000" />
+    <ImageTarget name="card" size="1.000000 0.785276" />
+    <ImageTarget name="target" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,5 @@
+x 0
+y -0.72
+z -0.86
+image 1_3
+assembly SubAssembly1
